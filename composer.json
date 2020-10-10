@@ -16,7 +16,7 @@
     "require": {
         "php": ">=7.0",
         "guzzlehttp/guzzle": "^7",
-        "lstrojny/fxmlrpc": "^0.14.0",
+        "lstrojny/fxmlrpc": "^0.15.0",
         "psr/log": "~1.0",
         "php-http/guzzle7-adapter": "^0.1.0",
         "zendframework/zend-diactoros": "^1.7",
